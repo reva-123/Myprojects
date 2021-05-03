@@ -14,3 +14,13 @@ Proper channel number in that app and icon after that,
 We have to add actuator. when we on the switch led will blink. 
 That means that we can run the industry automatically. Wherever we present and similarly we can run the motor. From this we can say that we can find the working times of workers and machine working
 
+## 
+PROJECT DESCRIPTION
+STUDENT  MANAGEMENT SYSTEM (SMS)   is a web-based application that tracks  current student academic information. The proposed system SMS manages the information about  students’ profile, courses, attendance, marks  and Percentage. It  also manages to keep all the records of students  Performance and Progress.
+User can access anywhere anytime to view their data . Student Management system is a Software which is helpful for Students as well as the Educational institutes .  Our Student Management  System deals with the various activities related to the students.  
+In the Software we can register as a user and user has of two types, student  and administrator.
+Administrator has the power to add new user and can edit and delete a user. A student can register as user and view their marks and printout the marks . The administrator can add edit and delete marks for the student as well as subjects and classes . All the users can see the marks and printout them as a PDF format.
+
+There are mainly 2 modules in this software 
+•	Admin module
+•	Student Module 
