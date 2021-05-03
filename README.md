@@ -24,3 +24,8 @@ Administrator has the power to add new user and can edit and delete a user. A st
 There are mainly 2 modules in this software 
 •	Admin module
 •	Student Module 
+### DIABETES  Prediction using ML 
+Key Motivation for the Project
+I decided to grow my machine learning skills by engaging in diabetes prediction. I did this not only for fun and to learn but also to appreciate the essence of machine learning in solving some of the problems that plague humanity. This is, therefore, an interesting project. So, let us do this!
+About the Dataset
+This dataset is originally from the National Institute of Diabetes and Digestive and Kidney Diseases. It is provided courtesy of the Pima Indians Diabetes Database and is available on Kaggle. Here is the link to the dataset. It consists of several medical predictor variables and one target variable, Outcome. Predictor variables include the number of pregnancies the patient has had, their BMI, insulin level, age, and so on
